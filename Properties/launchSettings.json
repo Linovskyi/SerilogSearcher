@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SerilogSearcher": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
